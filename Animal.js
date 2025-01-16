@@ -9,6 +9,7 @@ export class Animal {
     return this.#weight;
   }
 
+
   display() {}
 
   feed() {}
